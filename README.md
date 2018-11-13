@@ -8,6 +8,6 @@ Raytracing (spheres, shadows, point light) multithreaded using std::execution
 * Source.cpp  - main
 * input.txt   - scene configuration
 * output.ppm  - output image (.ppm - raw rgb for each pixel)
-* gcem        - constexpr <cmath> https://github.com/kthohr/gcem
+* gcem        - constexpr math https://github.com/kthohr/gcem
 
 ![alt text](https://i.imgur.com/rQ5WhWq.png)
