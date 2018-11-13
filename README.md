@@ -1,4 +1,4 @@
-# Raytracing-on-CPU
+# CPU Raytracing
 Raytracing (spheres, shadows, point light) multithreaded using std::execution
 
 ![alt text](https://i.imgur.com/x266YvN.png)
